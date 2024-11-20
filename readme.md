@@ -1,3 +1,3 @@
 Purwadhika Kelas JCDS017
 
-Repository ini digunakan untuk latihan upload ke Repo Github
+Repository ini digunakan pengumpulan tugas Capstone Project Module 1

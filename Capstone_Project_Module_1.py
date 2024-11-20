@@ -500,8 +500,10 @@ while mainmenu != 7:
                         break
                     else:
                         print("Wrong Input")
-            else:
+            elif menu == 3:
                 break
+            else:
+                print("Invalid Input! Please try again")
     
     # DELETE STUDENT PROFILE & GRADE
     elif mainmenu == 6:
@@ -541,7 +543,9 @@ while mainmenu != 7:
                             print("Wrong input, please only type 'yes' or 'no'")
                     if search_again == 'no':
                         break
-            else:
+            elif menu == 2:
                 break
+            else:
+                print("Invalid Input Please Try Again!")
 else:
     print("Goodbye!\n")
